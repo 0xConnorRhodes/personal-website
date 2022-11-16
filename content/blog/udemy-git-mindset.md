@@ -1,6 +1,6 @@
 ---
 title: "Git Mindset Course on Udemy"
-date: 2022-11-15T11:35:50-06:00
+date: 2022-11-16T11:35:50-06:00
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Git Quick Start Course"
-date: 2022-11-15T09:23:00-06:00
+date: 2022-11-01T09:23:00-06:00
 draft: false
 ---
 
