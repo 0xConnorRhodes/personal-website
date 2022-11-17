@@ -5,3 +5,5 @@ draft: true
 tags: ['Python', 'Continuing Education']
 ---
 
+### takeaways
+- the lab (link in python playground) to 
