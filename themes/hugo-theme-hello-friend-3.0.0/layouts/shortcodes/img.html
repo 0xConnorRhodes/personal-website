@@ -5,7 +5,7 @@
 	caption: caption
 	mouse: what the image says when moused over ("title" in HTML)
 
-	syntax: {{< img src="rel/from/static/pic.png" mouse="My hover text" >}}
+	syntax: \{\{\< img src="rel/from/static/pic.png" mouse="My hover text" \>\}\}
 -->
 <figure {{ with .Get "class" }}class="{{.}}"{{ end -}}>
 	{{- with .Get "link"}}<a href="{{.}}">{{ end -}}
