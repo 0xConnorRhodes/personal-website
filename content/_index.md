@@ -1,7 +1,6 @@
 ---
 title: ""
 date: 2022-10-30T12:25:43-05:00
-draft: false
 ---
 
 ## Hi, my name is Connor Rhodes, and I'm a Solutions Engineer for [Verkada](https://www.verkada.com/) in Austin, TX.

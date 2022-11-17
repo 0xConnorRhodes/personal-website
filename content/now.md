@@ -1,6 +1,5 @@
 ---
 title: "What I'm doing now"
-draft: false
 ---
 
 #### Current Project

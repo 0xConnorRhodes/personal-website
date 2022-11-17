@@ -1,7 +1,6 @@
 ---
 title: "Git Mindset Course on Udemy"
 date: 2022-11-16T11:35:50-06:00
-draft: false
 ---
 
 I recently completed the [Git Mindset course](https://www.udemy.com/course/git-mindset/) from Abhin Chhabra on Udemy. This course was my first systematic intro to the inner-workings of git, and it was very valuable. I've been using git for personal projects for a couple of years now, but I recently had the opportunity to write some internal tooling as part of a team at work. This put me in a situation where I needed to be comfortable creating branches, merging changes, and resolving merge conflicts on a regular basis. I quickly realized that I didn't understand git's particular terminology (HEAD, objects, refs, etc.) well enough to understand the man pages and conceptualize everything I was doing.
