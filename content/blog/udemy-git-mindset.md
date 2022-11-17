@@ -1,7 +1,7 @@
 ---
 title: "Git Mindset Course on Udemy"
 date: 2022-11-14T11:35:50-06:00
-tags: ['git','Course Reviews']
+tags: ['git','Continuing Education']
 ---
 
 {{< img src="/certs/git-mindset.jpg" mouse="Verify Certificate" link="https://www.udemy.com/certificate/UC-df4a1922-2f4a-4b12-9c44-49d632e8d0ed/" >}}

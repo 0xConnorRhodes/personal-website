@@ -1,7 +1,7 @@
 ---
 title: "Git Quick Start Course"
 date: 2022-11-01T09:23:00-06:00
-tags: ['git','Course Reviews']
+tags: ['git','Continuing Education']
 ---
 
 {{< img src="/certs/git-quick-start.jpg" mouse="Verify Certificate" link="https://verify.acloud.guru/70988332EE47" >}}
