@@ -3,11 +3,7 @@ title: "What I'm doing now"
 ---
 
 #### Current Project
-Right now I am devloping an internal tool with a coworker and using it as an opportunity to improve my skills with Python and to learn how to use git and GitHub in the context of team development. 
-I am currently working through
-A Cloud Guru's [Introduction to Python Scripting](https://acloudguru.com/course/introduction-to-python-scripting)
-and the [Git Mindset](https://www.udemy.com/course/git-mindset/) course on Udemy to help with this.
+Right now I'm studying Python from several angles to slowly build fluency in the language. I'm working my way through a variety of Python courses I have access to and doing exercises along the way. You can track my progress and see which course is my current focus on my [Python Playground repo](https://github.com/0xConnorRhodes/python-playground) on GitHub.
 
 #### Previous Project
-I just wrapped up building the initial version
-of this website with [Hugo](https://gohugo.io/).
+I just wrapped up learning git with Abhin Chhabra's [Git Mindset course](https://connor.engineer/blog/udemy-git-mindset/).
