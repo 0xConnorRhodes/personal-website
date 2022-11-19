@@ -1,5 +1,5 @@
 ---
-title: "Git Mindset Course on Udemy"
+title: "Git Mindset Course"
 date: 2022-11-14T11:35:50-06:00
 tags: ['git','Continuing Education']
 ---

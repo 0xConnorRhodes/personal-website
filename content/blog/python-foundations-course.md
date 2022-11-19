@@ -1,5 +1,5 @@
 ---
-title: "Zenva Python Foundations"
+title: "Python Foundations Course"
 date: 2022-11-01T09:36:31-06:00
 tags: ['Python', 'Continuing Education']
 ---
