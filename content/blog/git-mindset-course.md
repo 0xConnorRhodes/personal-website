@@ -6,8 +6,6 @@ tags: ['git','Continuing Education']
 
 {{< cert src="/certs/git-mindset.jpg" link="https://www.udemy.com/certificate/UC-df4a1922-2f4a-4b12-9c44-49d632e8d0ed/" >}}
 
----
-
 I recently completed the [Git Mindset course](https://www.udemy.com/course/git-mindset/) from Abhin Chhabra on Udemy. This course was my first systematic intro to the inner-workings of git, and it was very valuable. I've been using git for personal projects for a couple of years now, but I recently had the opportunity to write some internal tooling as part of a team at work. This put me in a situation where I needed to be comfortable creating branches, merging changes, and resolving merge conflicts on a regular basis. I quickly realized that I didn't understand git's particular terminology (HEAD, objects, refs, etc.) well enough to understand the man pages and conceptualize everything I was doing.
 
 Git Mindset is a different sort of git course than many others on the market. Most courses (including the ones I have completed before) give a series commands to memorize by rote. Git Mindset, on the other hand, gives you a mental model of how git's distributed architecture works using a simplified dev team scenario as context for why git is built the way it is. The course delves into how the `.git` directory functions and provides illustrations of key terms in the git manual so you can rely on git's own documentation for future reference.
