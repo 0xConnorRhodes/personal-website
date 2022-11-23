@@ -1,5 +1,5 @@
 ---
-title: "Acg Introduction to Python Scripting"
+title: "Introduction to Python Scripting Course"
 date: 2022-11-23T12:00:35-06:00
 tags: ['Python', 'Continuing Education']
 ---
