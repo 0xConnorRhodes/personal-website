@@ -1,9 +1,10 @@
 ---
 title: "Harvard Univeristy CS50: Introduction to Computer Science"
 date: 2022-11-03T16:40:11-06:00
+tags: ['Computer Science']
 ---
 
-### course in progress
+## course in progress
 
 This page is a placeholder. I am in the process of completing this course.
 
