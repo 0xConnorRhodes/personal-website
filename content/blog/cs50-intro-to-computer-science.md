@@ -1,7 +1,7 @@
 ---
 title: "Harvard Univeristy CS50: Introduction to Computer Science"
 date: 2022-11-03T16:40:11-06:00
-tags: ['Computer Science']
+tags: ['Computer Science', 'Continuing Education']
 ---
 
 ## course in progress
